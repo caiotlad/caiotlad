@@ -42,7 +42,8 @@ Além disso, tenho como objetivo transformar ideias em projetos práticos, explo
 
 Confira meus repositórios e acompanhe os projetos que estou desenvolvendo:
 
-➡️ [github.com/caiotlad](https://github.com/caiotlad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio_Teixeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-teixeira-cc)
+[![GitHub](https://img.shields.io/badge/GitHub-caiotlad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiotlad)
 
 ---
 
