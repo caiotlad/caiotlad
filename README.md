@@ -4,7 +4,8 @@
 
 ### Estudante de Ciência da Computação na UFLA
 
-Gosto de transformar ideias em projetos práticos, explorar novas tecnologias e aprender por meio do desenvolvimento de software.
+Sou PO e analista de requisitos no GEDAI (Laboratório de geoprocessamento, análise de dados e Inteligência artificial).
+Além disso, tenho como objetivo transformar ideias em projetos práticos, explorar novas tecnologias e aprender por meio do desenvolvimento de software.
 
 [![GitHub](https://img.shields.io/badge/GitHub-caiotlad-181717?style=for-the-badge&logo=github)](https://github.com/caiotlad)
 
@@ -12,9 +13,8 @@ Gosto de transformar ideias em projetos práticos, explorar novas tecnologias e 
 
 ## Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação** na Universidade Federal de Lavras (UFLA)
-- 💻 Interesse em **desenvolvimento de software**, **desenvolvimento web** e **aprendizado de máquina**
-- 🌱 Sempre aprendendo, experimentando e construindo novos projetos
+- 🎓 Estudante de **Ciência da Computação** na Universidade Federal de Lavras (UFLA), ingresso em 2024/2
+- 💻 Interesse em **Desenvolvimento de Software**, **Análise de requisitos**, **Documentação de Software**, **Análise de dados** e **aprendizado de máquina**
 - 📍 Minas Gerais, Brasil
 
 ## Tecnologias
@@ -45,5 +45,5 @@ Confira meus repositórios e acompanhe os projetos que estou desenvolvendo:
 ---
 
 <div align="center">
-  <sub>Obrigado pela visita! 🚀</sub>
+  <sub>Obrigado pela visita!</sub>
 </div>
