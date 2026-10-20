@@ -32,6 +32,8 @@ Além disso, tenho como objetivo transformar ideias em projetos práticos, explo
 
 ## Projetos em destaque
 
+- 🗂️ [**CardSort Lab**](https://github.com/caiotlad/cardsort-lab) — ferramenta de card sorting para estudos de IHC, com frontend React e backend Java/Spring Boot
+- 🎮 [**DeuBranco**](https://github.com/caiotlad/DeuBranco) — minigame multiplayer de perguntas de vestibular, desenvolvido em Java
 - ⛽ [**Diesel Prediction**](https://github.com/caiotlad/Diesel_Prediction) — projeto de análise e predição desenvolvido em Jupyter Notebook
 - 🏛️ [**Site Museu Bi Moreira**](https://github.com/caiotlad/SiteMuseuBiMoreira) — aplicação web desenvolvida com TypeScript
 - 💳 [**Detecção de fraude bancária**](https://github.com/caiotlad/ML-Fraude-bancaria) — projeto de aprendizado de máquina para análise de fraudes
